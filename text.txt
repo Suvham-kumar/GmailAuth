@@ -1,0 +1,8 @@
+// googleapis -> Google ke apis use krne ke liye.
+// nodemailer -> Gmail ke through email bhejne ke liye.
+//  express -> server banane ke liye.
+// open -> Authentcation link automatically browser mei kholne ke liye..
+then uske baad google cloud console mei jaaker New Project ko click krke Usme GmailAuthProject banaya phir Api 
+and services mei jaaakr library mei click kiya tha then phir consent screen mein OAuth type aarha tha to usme 
+apna basic details dekr usko create kiye then credentials mei jaakr usme create credentials click kiya phir uskodownload kiya.
+phir js file mei run kiya.
